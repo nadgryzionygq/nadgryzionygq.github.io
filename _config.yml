@@ -2,8 +2,8 @@
 name: "nadgryziony.gq"
 title: "Nadgryziony Geek"
 description: "Lekko nadgryziony opis"
-logo: 'assets/images/nadgryziony_logo.png'
-favicon: 'assets/images/nadgryziony_logo.png'
+logo: 'assets/images/nadgryziony_logo2.png'
+favicon: 'assets/images/nadgryziony_logo2.ico'
 baseurl:
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
