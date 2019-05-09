@@ -1,7 +1,7 @@
 # Site
-name: "nadgryziony.gq"
+name: "Nadgryziony Geek"
 title: "Nadgryziony Geek"
-description: "Lekko nadgryziony opis"
+description:
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/nadgryziony_logo2.ico'
 baseurl:
@@ -20,7 +20,7 @@ authors:
     email: mateusz@porebiak.pl
     web: mateusz.porebiak.pl
     twitter: https://twitter.com/eddoner
-    description: "Testowy opis :)"
+    description:
 
 # Plugins
 plugins:
